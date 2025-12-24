@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tôi hiện đang làm việc về Web, IoT<br>🌱 Tôi hiện đang học: BackEnd, Arduino<br>
+🔭 Làm việc về Web, IoT<br>🌱 Đang học: BackEnd, Arduino<br>
 
 
 ## 🌐 Socials:
