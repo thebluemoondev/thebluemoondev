@@ -1,0 +1,26 @@
+name: GitHub Metrics
+
+on:
+  schedule: [{ cron: "0 * * * *" }]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: thebluemoondev
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          template: classic
+          base: header, activity, community, repositories
+
+          config_timezone: Asia/Ho_Chi_Minh
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 6
+
+          plugin_isocalendar: yes
+          plugin_streak: yes
