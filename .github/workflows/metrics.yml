@@ -1,8 +1,6 @@
 name: Metrics
 
 on:
-  schedule:
-    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,21 +8,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           user: thebluemoondev
           token: ${{ secrets.GITHUB_TOKEN }}
 
           filename: github-metrics.svg
 
-          base: header, activity, community, repositories
-
-          config_timezone: Asia/Ho_Chi_Minh
+          base: header, activity
 
           plugin_languages: yes
-          plugin_languages_limit: 6
-          plugin_languages_ignored: html, css
+          plugin_languages_limit: 4
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
