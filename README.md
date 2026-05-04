@@ -1,40 +1,85 @@
-# 💫 About Me:
-🔭 Web, IoT  
-🌱 BackEnd, Arduino  
+<h1 align="center">👋 Hi, I'm Nguyễn Như Thành (BlueMoon)</h1>
+<h3 align="center">🚀 Backend • Web • IoT Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Nguyễn+Như+Thành;BlueMoon+Developer;Backend+%7C+IoT&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thebluemoondev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebluemoondev)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thebluemoondev)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thebluemoondev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyennhuthanh03042006@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thebluemoondev&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+## 🧠 About Me
+- 🔭 Working on: Web & IoT  
+- 🌱 Learning: Backend, Arduino  
+- ⚡ Fun fact: I build things from nothing  
 
 ---
 
-# 📊 GitHub Stats:
-
-## 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=thebluemoondev&theme=dark&hide_border=true)
-
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebluemoondev&layout=compact&theme=dark)
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://facebook.com/thebluemoondev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/thebluemoondev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@thebluemoondev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://youtube.com/@thebluemoondev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:nguyennhuthanh03042006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-<!---->
+## 💻 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,git,github,bootstrap,dotnet,arduino" />
+</p>
+
+---
+
+# 🚀 GitHub Dashboard
+
+## 🔥 Streak (Full History)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thebluemoondev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Metrics Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thebluemoondev/thebluemoondev/main/github-metrics.svg"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thebluemoondev&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thebluemoondev&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thebluemoondev/thebluemoondev/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ⚡ Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+---
+
+⭐ From [thebluemoondev](https://github.com/thebluemoondev)
