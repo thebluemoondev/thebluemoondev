@@ -47,13 +47,6 @@
 
 ---
 
-## 📊 Metrics Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thebluemoondev/thebluemoondev/main/github-metrics.svg"/>
-</p>
-
----
-
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thebluemoondev&theme=tokyo-night"/>
