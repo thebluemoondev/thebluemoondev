@@ -1,22 +1,9 @@
-<h1 align="center">👋 Hi, I'm Nguyễn Như Thành (BlueMoon)</h1>
-<h3 align="center">🚀 Backend • Web • IoT Developer</h3>
+<h1 align="center">👋 Hi, I'm BlueMoon</h1>
+<h3 align="center">🚀 Embedded Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Nguyễn+Như+Thành;BlueMoon+Developer;Backend+%7C+IoT&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Nguyễn+Như+Thành&center=true&width=500&height=50">
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thebluemoondev&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🧠 About Me
-- 🔭 Working on: Web & IoT  
-- 🌱 Learning: Backend, Arduino  
-- ⚡ Fun fact: I build things from nothing  
 
 ---
 
@@ -38,9 +25,7 @@
 
 ---
 
-# 🚀 GitHub Dashboard
-
-## 🔥 Streak (Full History)
+## 🔥 Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thebluemoondev&theme=tokyonight&hide_border=true"/>
 </p>
